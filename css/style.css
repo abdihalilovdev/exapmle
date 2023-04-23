@@ -37,10 +37,11 @@ a {
     transition:.2s;
 }
 
-.header button:hover {
-   backround:yellow;
-   color:black;
-   transform:scale(1.1)
+.header button:hover { 
+ backround:yellow;
+ color:green; 
+ transform:scale(1.1)
+ font-size:18px;
 }
 
 .header-logo h1 {
