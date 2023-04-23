@@ -38,9 +38,9 @@ a {
 }
 
 .header button:hover { 
- backround:yellow;
+ background:yellow;
  color:green; 
- transform:scale(1.1)
+ transform:scale(1.1);
  font-size:18px;
 }
 
