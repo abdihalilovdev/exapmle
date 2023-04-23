@@ -34,6 +34,13 @@ a {
     border-radius: 14px;
     color: white;
     font-size: 17px;
+    transition:.2s;
+}
+
+.header button:hover {
+   backround:yellow;
+   color:black;
+   transform:scale(1.1)
 }
 
 .header-logo h1 {
