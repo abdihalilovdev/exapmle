@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+bacground:orange;
+}
+
 
 .container {
     width: 1140px;
